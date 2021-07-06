@@ -1,4 +1,4 @@
-# OzekiLibsRest
+# ozeki_libs_rest
 
 The ozeki_libs_rest gem is a tool for Ozeki SMS Gateway. With this library you can send, delete, mark and receive SMS messages using the built in api of the SMS Gateway.
 
