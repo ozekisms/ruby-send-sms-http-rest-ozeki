@@ -1,4 +1,3 @@
-#This is what happens if the repository gets updated
 require 'ozeki_libs_rest'
 
 configuration = Configuration.new(
